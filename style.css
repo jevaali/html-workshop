@@ -5,6 +5,10 @@ body {
     flex-direction: column;
     gap: 3em; /* vahe elementide vahel */
     align-items: center;
+    background-color: darkseagreen;
+    color: ghostwhite;
+    font-size: 15px;
+    font-family: Georgia;
 }
 /* #-ga viitame elemendile, millel on selline id */
 #photo {
@@ -32,7 +36,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #D9D9D9;
+    background-color: steelblue;
     padding: 5em 1.5em 1.5em;
 }
 .icon {
